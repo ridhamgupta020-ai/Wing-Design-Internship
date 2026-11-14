@@ -1,0 +1,15 @@
+Parameter,Value,Unit
+Mass,12.0,kg
+Aircraft Weight,117.72,N
+Wing Area,1.2,m^2
+Wing Span,3.0,m
+Aspect Ratio,7.5,-
+Wing Loading,98.10000000000001,N/m^2
+Root Chord,0.4999999999999999,m
+Tip Chord,0.29999999999999993,m
+Mean Aerodynamic Chord,0.4083333333333332,m
+MAC Position,0.6875,m
+Dynamic Pressure,245.00000000000003,Pa
+Cruise Required CL,0.4004081632653061,-
+Low Speed Required CL,1.1122448979591837,-
+Reynolds Number,559204.3972424071,-
